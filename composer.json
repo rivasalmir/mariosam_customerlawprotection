@@ -1,5 +1,5 @@
 {
-    "name": "mariosam/module-customerlawprotection",
+    "name": "rivasalmir/module-customerlawprotection",
     "version": "1.0.0",
     "description": "Module to configure customer data law protection.",
     "type": "magento2-module",
